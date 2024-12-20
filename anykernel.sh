@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string= TakoYaki Kernel By Elohim
+kernel.string= Bolt-V4-ksu Kernel By Elohim
 do.devicecheck=1
 do.modules=0
 do.systemless=1
