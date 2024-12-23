@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=Psionic Revived By ELOHIM
+kernel.string=Stormbreaker
 do.devicecheck=1
 do.modules=0
 do.systemless=1
